@@ -26,6 +26,7 @@ This is a tool for hiding the urls inside a legit looking url
 * Windows
 * Linux
 * Mac
+* Termux
 
 ### REQUIREMENTS :
 * pip 
@@ -47,7 +48,7 @@ python3 or python -m pip install -r requirements.txt
 
 ## USAGE :
 * To start using it make sure you have the requirements and you are in the Phishmask.
-* Then you are good to go just run the main.py with necessary commands arguments.
+* Then you are good to go just run the phishmask.py and give the needed input.
 ```
 Ex:-
 python3 or python phishmask.py
